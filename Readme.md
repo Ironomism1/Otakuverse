@@ -1,4 +1,4 @@
-You are GitHub Copilot. Generate a complete backend app called *OtakuVerse: a multi-agent entertainment recommendation system built with **Google Agent Development Kit (ADK)* and *Python*.
+
 
 The frontend will be done separately, so focus on:
 - Multi-agent architecture with ADK
